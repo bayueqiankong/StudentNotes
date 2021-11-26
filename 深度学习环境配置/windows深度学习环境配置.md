@@ -1,4 +1,6 @@
-# windows深度学习环境搭建
+# Windows深度学习环境搭建
+
+注：Windows10+RTX3060(memory 6G)
 
 ## 下载驱动+Cuda+cuDNN
 
